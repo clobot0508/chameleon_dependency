@@ -1,7 +1,7 @@
 # chameleon_device
 
 
-###### 설치 환경 : ubuntu 18.04 + ROS Melodic + python2.7 ######
+## 설치 환경 : ubuntu 18.04 + ROS Melodic + python2.7 
 
 ## 카멜레온 UI 관련 dependency 설치
 
@@ -18,7 +18,7 @@
 
 
 
-###### 설치 환경 : ubuntu 20.04 + ROS Noetic + python3 ######
+## 설치 환경 : ubuntu 20.04 + ROS Noetic + python3 
 
 ## 카멜레온 UI 관련 dependency 설치
 
